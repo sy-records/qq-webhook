@@ -1,0 +1,29 @@
+{
+  "name": "sy-records/qq-webhook",
+  "description": "QQ group chat robot from Tencent QQ official.",
+  "type": "library",
+  "license": "MIT",
+  "keywords": [
+    "php",
+    "qq",
+    "webhook"
+  ],
+  "authors": [
+    {
+      "name": "Luffy",
+      "email": "52o@qq52o.cn"
+    }
+  ],
+  "require": {
+    "php": ">=5.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "Luffy\\QQWebHook\\": "src/"
+    }
+  },
+  "config": {
+    "sort-packages": true,
+    "optimize-autoloader": true
+  }
+}
