@@ -30,4 +30,4 @@ $robot->send("沈唁志博客\r\nhttps://qq52o.me");
 
 ## 截图
 
-![发送成功截图](https://cdn.jsdelivr.net/gh/sy-records/qq-webhook/images/202004/send-success.png)
+![发送成功截图](https://cdn.jsdelivr.net/gh/sy-records/qq-webhook/images/send-success.png)
